@@ -1,0 +1,36 @@
+.chart {
+    display: block;
+    margin: 0 auto;
+    max-width: 600px;
+    font-family: sans-serif;
+  }
+  
+  .chart .title {
+    font-size: 1.2em;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .chart .axis {
+    font-size: 0.8em;
+  }
+  
+  .chart .axis .tick line {
+    stroke: #ccc;
+    stroke-width: 1;
+    shape-rendering: crispEdges;
+  }
+  
+  .chart .axis .domain {
+    stroke: #ccc;
+    stroke-width: 1;
+    shape-rendering: crispEdges;
+  }
+  
+  .chart .line {
+    fill: none;
+    stroke: steelblue;
+    stroke-width: 2;
+  }
+  

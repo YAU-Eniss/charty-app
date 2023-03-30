@@ -1,0 +1,8 @@
+.center-div {
+    margin: 0 auto; /* centre horizontalement */
+    border: 2px solid #383838; /* ajoute une bordure */
+    background-color: #A9A9A9; /* change la couleur de fond */
+    border-radius: 10px; /* arrondit les coins de la bordure */
+    width: 500;
+  }
+  
